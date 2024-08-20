@@ -1,0 +1,8 @@
+path: C:\Users\mason\OneDrive - University of Central Florida\Study Abroad\PPE Detection
+train: C:\Users\mason\OneDrive - University of Central Florida\Study Abroad\PPE Detection\images #train images relative to 'path'
+val: C:\Users\mason\OneDrive - University of Central Florida\Study Abroad\PPE Detection\images #validation images relative to 'path'
+
+#classes
+names:
+  0: helmet
+  1: no_helmet

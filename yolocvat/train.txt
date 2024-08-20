@@ -1,0 +1,15 @@
+data/obj_train_data/10hatvest.jpg
+data/obj_train_data/11hatvest.jpg
+data/obj_train_data/12none.jpg
+data/obj_train_data/13none.jpg
+data/obj_train_data/14none.jpg
+data/obj_train_data/15none.jpg
+data/obj_train_data/1hat.png
+data/obj_train_data/2hatvest.jpg
+data/obj_train_data/3hatvest.jpg
+data/obj_train_data/4hat.jpg
+data/obj_train_data/5hatvest.jpg
+data/obj_train_data/6hatvest.jpg
+data/obj_train_data/7hatvest.jpg
+data/obj_train_data/8hat.jpg
+data/obj_train_data/9hatvest.jpg
